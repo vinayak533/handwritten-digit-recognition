@@ -37,5 +37,5 @@ The dataset is automatically downloaded via `tensorflow_datasets`.
 ## 🙋‍♂️ Author
 
 **Vinayak K V**  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/vinayak533)
 
